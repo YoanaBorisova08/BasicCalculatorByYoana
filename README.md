@@ -2,7 +2,7 @@
 I have created a basic calculator Using Tkinter and objects, following a tutorial by Parvat Computer Technology.
 
 
-<img src="https://github.com/user-attachments/assets/56627b13-43be-4d97-92fa-1a9f761384c2" width="350" height="420"></img>
+                 <img width="358" height="420" alt="image" src="https://github.com/user-attachments/assets/e78bb49f-cc73-4fc8-ab59-c0f401945f3a" />
 
 
 You can give it a try!😊
